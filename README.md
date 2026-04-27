@@ -43,7 +43,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 # PROJECTS
 <h1 Animal Shelter Operations </h1>
 <a href="https://github.com/KWAKUTWUMASI1/Social-Media">Animal Shelter</a> 
-
+![alt text]([Summary.jpg](https://github.com/KWAKUTWUMASI1/Myportforlio/blob/main/Summary.png))
 
 🎓 CREDENTIALS
 # Certificates
