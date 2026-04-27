@@ -6,6 +6,7 @@
   <a href="#experience">Experince</a> •
   <a href="#contact">Contact</a>
 </p>
+
 # Home
 
 <h2 align="center">EMMANUEL TWUMASI AMPOFO</h2>
