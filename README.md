@@ -1,4 +1,11 @@
-[Home](#Home) • [SKILLS](#Skills) • [PROJECTS](#projects) • [CERTIFICATES](#Certificates) • [EXPERIENCE](#experience) • [CONTACT](#contact)
+<p align="right">
+  <a href="#about">Home</a> •
+  <a href="#skills">SKILLS</a> •
+  <a href="#projects">PROJECTS</a> •
+  <a href="#certificates">CERTIFICATES</a> •
+  <a href="#experience">EXPERIENCE</a> •
+  <a href="#contact">CONTACT</a>
+</p>
 # Home
 # **EMMNANUEL TWUMASI AMPOFO**
 
