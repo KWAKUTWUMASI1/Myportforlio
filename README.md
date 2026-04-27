@@ -6,7 +6,7 @@
   <a href="#contact">Contact</a>
 </p>
 
-<h2 align="center">EMMANUEL TWUMASI AMPOFO</h2>
+<h1 align="center">EMMANUEL TWUMASI AMPOFO</h1>
 
 Data Analyst  ·  UK, Wells.
 
@@ -39,6 +39,8 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 ![EDA](https://img.shields.io/badge/Exploratory%20Analysis-0A192F?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Dashboard%20Design-0A192F?style=for-the-badge)
 ![Storytelling](https://img.shields.io/badge/Data%20Storytelling-0A192F?style=for-the-badge)
+
+# PROJECTS
 
 
 ### 🎓 CREDENTIALS
