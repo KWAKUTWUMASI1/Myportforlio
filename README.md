@@ -51,6 +51,9 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 | **Microsoft Certified** | Azure Data Fundamentals | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11) |
 | **CompTIA** | Excel Fundamentals | [View Certificate](http://verify.CompTIA.org) |
 
-# CONTACT ME
-Email: ampofotwumasiemmanuel@gmail.com
-Linkedin: https://www.linkedin.com/in/emmanuel-twumasi-ampofo/
+<h2 align="center">CONTACT ME</h2>
+
+<p align="center">
+  <a href="mailto:ampofotwumasiemmanuel@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/emmanuel-twumasi-ampofo/">🔗 LinkedIn</a>
+</p>
