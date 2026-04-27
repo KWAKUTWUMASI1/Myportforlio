@@ -42,10 +42,9 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
 # PROJECTS
 <h1 Animal Shelter Operations </h1>
-<a href="https://github.com/KWAKUTWUMASI1/Social-Media">Animal Shelter</a> 
-![alt text]([Summary.jpg](https://github.com/KWAKUTWUMASI1/Myportforlio/blob/main/Summary.png))
+<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png" width="600">
 
-🎓 CREDENTIALS
+
 # Certificates
 
 | Provider | Certificate | Link |
