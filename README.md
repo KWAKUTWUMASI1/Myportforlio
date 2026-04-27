@@ -7,7 +7,8 @@
   <a href="#contact">Contact</a>
 </p>
 # Home
-# **EMMNANUEL TWUMASI AMPOFO**
+
+<h2 align="center">EMMANUEL TWUMASI AMPOFO</h2>
 
 Data Analyst  ·  UK, Wells.
 
