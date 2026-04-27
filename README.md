@@ -1,10 +1,10 @@
 <p align="right">
   <a href="#about">Home</a> •
-  <a href="#skills">SKILLS</a> •
-  <a href="#projects">PROJECTS</a> •
-  <a href="#certificates">CERTIFICATES</a> •
-  <a href="#experience">EXPERIENCE</a> •
-  <a href="#contact">CONTACT</a>
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#certificates">Certificates</a> •
+  <a href="#experience">Experince</a> •
+  <a href="#contact">Contact</a>
 </p>
 # Home
 # **EMMNANUEL TWUMASI AMPOFO**
