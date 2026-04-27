@@ -44,15 +44,20 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 <div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
 
   <!-- Image section (cropped preview) -->
-  <div style="height:100px; overflow:hidden;">
+  <div style="height:100px; overflow:hidden; position:relative;">
     <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
-         style="width:100%; object-fit:cover;">
+         style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         display:block;
+         ">
   </div>
 
   <!-- Content section -->
   <div style="padding:12px;">
 
-   <p style="color:gray; font-size:12px; margin:0;">
+  <p style="color:gray; font-size:12px; margin:0;">
       Featured · Excel + Power BI
     </p>
 
@@ -66,8 +71,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
     <p style="font-size:12px; color:#666;">
       · Power BI · DAX · Excel
     </p>
-
-  <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+    <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
       View on GitHub →
     </a>
 
