@@ -43,6 +43,9 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 # PROJECTS
 <h1 Animal Shelter Operations </h1>
 <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png" width="600">
+<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Los.png" width="600">
+<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Intake.png" width="600">
+<img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/animal profile.png" width="600">
 
 
 # Certificates
