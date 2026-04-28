@@ -62,6 +62,42 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
     </p>
 
   <h3 style="margin:8px 0 5px 0;">
+      Pharmacy Chain Distributor Across Europe 
+    </h3>
+
+  <p style="font-size:13px; color:#444;">
+      In this challenge, you will analyze a dataset representing a European pharmacy chain distributor operating across multiple European countries. The dataset includes daily sales transactions by pharmacy and product, with supporting dimensions for time, geography, and product hierarchy.
+    </p>
+    <p style="font-size:12px; color:#666;">
+      · Power BI · DAX · Excel
+    </p>
+    <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+      View on GitHub →
+    </a>
+  </div>  
+</div>
+
+<div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
+
+  <!-- Image section (cropped preview) -->
+  <div style="height:100px; overflow:hidden; position:relative;">
+    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
+         style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         display:block;
+         ">
+  </div>
+
+  <!-- Content section -->
+  <div style="padding:12px;">
+
+  <p style="color:gray; font-size:12px; margin:0;">
+      Featured · Excel + Power BI
+    </p>
+
+  <h3 style="margin:8px 0 5px 0;">
       Animal Shelter Operational Dashboard
     </h3>
 
