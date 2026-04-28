@@ -2,7 +2,7 @@
   <a href="#skills">Skills</a> •
   <a href="#projects">Projects</a> •
   <a href="#certificates">Certificates</a> •
-  <a href="#Experience">Experience</a> •
+  <a href="#experience">Experience</a> •
   <a href="#contact Me">Contact Me</a>
 </p>
 
