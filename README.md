@@ -120,11 +120,36 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
 # Certificates
 
-| Provider | Certificate | Link |
-|---------|------------|------|
-| **Ghana Communication Technology University** | BSc. Information Technology | [View Certificate](https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link) |
-| **Microsoft Certified** | Azure Data Fundamentals | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11) |
-| **CompTIA** | Excel Fundamentals | [View Certificate](http://verify.CompTIA.org) |
+<div style="display:flex; flex-direction:column; gap:15px;">
+
+  <!-- Certificate 1 -->
+  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h3 style="margin:0;">BSc. Information Technology</h3>
+    <p style="margin:5px 0; color:gray;">Ghana Communication Technology University</p>
+    <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link">
+      View Certificate →
+    </a>
+  </div>
+
+  <!-- Certificate 2 -->
+  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h3 style="margin:0;">Azure Data Fundamentals</h3>
+    <p style="margin:5px 0; color:gray;">Microsoft Certified</p>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11">
+      View Certificate →
+    </a>
+  </div>
+
+  <!-- Certificate 3 -->
+  <div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <h3 style="margin:0;">Excel Fundamentals</h3>
+    <p style="margin:5px 0; color:gray;">CompTIA</p>
+    <a href="http://verify.CompTIA.org">
+      Verify Certificate →
+    </a>
+  </div>
+
+</div>
 
 # Experience
 - Computer Technician – Ghana Armed Forces  
