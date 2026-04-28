@@ -45,7 +45,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
   <!-- Image section (cropped preview) -->
   <div style="height:100px; overflow:hidden; position:relative;">
-    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
+    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/rev.png"
          style="
          width:100%;
          height:100%;
