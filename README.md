@@ -133,7 +133,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
 <div align="center">
   
-# CONTACT ME
+# Contact me
 
 </div>
 
