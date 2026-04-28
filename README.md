@@ -3,7 +3,7 @@
   <a href="#projects">Projects</a> •
   <a href="#certificates">Certificates</a> •
   <a href="#experience">Experience</a> •
-  <a href="#contact-me">Contact Me</a>
+  <a href="#contact-me">Contact me</a>
 </p>
 
 <h1 class="drop">EMMANUEL TWUMASI AMPOFO</h1>
