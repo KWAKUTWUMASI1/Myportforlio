@@ -41,77 +41,62 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 ![Storytelling](https://img.shields.io/badge/Data%20Storytelling-0A192F?style=for-the-badge)
 
 # PROJECTS
-<div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
+<div style="display:flex; align-items:stretch; gap:20px;">
 
-  <!-- Image section (cropped preview) -->
-  <div style="height:100px; overflow:hidden; position:relative;">
-    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/rev.png"
-         style="
-         width:100%;
-         height:100%;
-         object-fit:cover;
-         display:block;
-         ">
-  </div>
+  <!-- First Card -->
+  <div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
 
-  <!-- Content section -->
+  <div style="height:100px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/rev.png"
+           style="width:100%; height:100%; object-fit:cover; display:block;">
+    </div>
+
   <div style="padding:12px;">
+      <p style="color:gray; font-size:12px; margin:0;">Featured · Excel + Power BI</p>
 
-  <p style="color:gray; font-size:12px; margin:0;">
-      Featured · Excel + Power BI
-    </p>
+   <h3 style="margin:8px 0 5px 0;">Pharmacy Chain Distributor Across Europe</h3>
 
-  <h3 style="margin:8px 0 5px 0;">
-      Pharmacy Chain Distributor Across Europe 
-    </h3>
+   <p style="font-size:13px; color:#444;">
+        In this challenge, you will analyze a dataset representing a European pharmacy chain distributor operating across multiple European countries.
+      </p>
 
-  <p style="font-size:13px; color:#444;">
-      In this challenge, you will analyze a dataset representing a European pharmacy chain distributor operating across multiple European countries. The dataset includes daily sales transactions by pharmacy and product, with supporting dimensions for time, geography, and product hierarchy.
-    </p>
-    <p style="font-size:12px; color:#666;">
-      · Power BI · DAX · Excel
-    </p>
-    <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
-      View on GitHub →
-    </a>
-  </div>  
-</div>
+   <p style="font-size:12px; color:#666;">· Power BI · DAX · Excel</p>
 
-<div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
-
-  <!-- Image section (cropped preview) -->
-  <div style="height:100px; overflow:hidden; position:relative;">
-    <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
-         style="
-         width:100%;
-         height:100%;
-         object-fit:cover;
-         display:block;
-         ">
+   <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+        View on GitHub →
+      </a>
+    </div>
   </div>
 
-  <!-- Content section -->
-  <div style="padding:12px;">
+  <!-- Divider line -->
+  <div style="width:2px; background-color:#ddd;"></div>
 
-  <p style="color:gray; font-size:12px; margin:0;">
-      Featured · Excel + Power BI
-    </p>
+  <!-- Second Card -->
+  <div style="width:300px; border:1px solid #ddd; border-radius:10px; overflow:hidden; font-family:Arial;">
 
-  <h3 style="margin:8px 0 5px 0;">
-      Animal Shelter Operational Dashboard
-    </h3>
+   <div style="height:100px; overflow:hidden;">
+      <img src="https://raw.githubusercontent.com/KWAKUTWUMASI1/Myportforlio/main/Summary.png"
+           style="width:100%; height:100%; object-fit:cover; display:block;">
+    </div>
 
-  <p style="font-size:13px; color:#444;">
-      In this challenge, you will analyze the Animal Shelter Intakes and Outcomes dataset from the City of Long Beach Animal Care Services. The dataset includes detailed information about each animal entering or leaving the shelter, such as species, intake type, condition, outcome type, and length of stay.
-    </p>
-    <p style="font-size:12px; color:#666;">
-      · Power BI · DAX · Excel
-    </p>
-    <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
-      View on GitHub →
-    </a>
+   <div style="padding:12px;">
+      <p style="color:gray; font-size:12px; margin:0;">Featured · Excel + Power BI</p>
+
+   <h3 style="margin:8px 0 5px 0;">Animal Shelter Operational Dashboard</h3>
+
+   <p style="font-size:13px; color:#444;">
+        In this challenge, you will analyze the Animal Shelter Intakes and Outcomes dataset.
+      </p>
+
+   <p style="font-size:12px; color:#666;">· Power BI · DAX · Excel</p>
+
+   <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+        View on GitHub →
+      </a>
+    </div>
 
   </div>
+
 </div>
 
 
