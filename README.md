@@ -108,7 +108,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 
    <p style="font-size:12px; color:#666;">· Power BI · DAX · Excel</p>
 
-   <a href="https://github.com/KWAKUTWUMASI1/Myportforlio" style="color:blue; font-size:13px;">
+   <a href="https://github.com/KWAKUTWUMASI1/Animal-Shelter-with-Python" style="color:blue; font-size:13px;">
         View on GitHub →
       </a>
     </div>
