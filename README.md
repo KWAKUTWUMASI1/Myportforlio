@@ -126,7 +126,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
 | **Microsoft Certified** | Azure Data Fundamentals | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/EMMANUELTWUMASIAMPOFO-1902/F03AD693162D4092?sharingId=67188209795A0A11) |
 | **CompTIA** | Excel Fundamentals | [View Certificate](http://verify.CompTIA.org) |
 
-# EXPERIENCE 💼
+# Experience 💼
 - Computer Technician – Ghana Armed Forces  
 - IT Specialist – United Nations Mission (UNMISS)  
 - Experience in data handling, reporting, and technical support  
