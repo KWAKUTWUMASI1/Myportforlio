@@ -126,7 +126,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
   <a href="https://drive.google.com/file/d/1hx9rO2DKpVmx09F0KxaEuLsDQcVr-Ad8/view?usp=drive_link" 
      style="text-decoration:none; color:inherit;">
     
-    <div style="
+  <div style="
       width:250px;
       border:1px solid #ddd;
       border-radius:10px;
@@ -136,14 +136,14 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
     onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.15)';"
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 
-      <h4 style="margin:0;">🎓 BSc. Information Technology</h4>
+  <h4 style="margin:0;">🎓 BSc. Information Technology</h4>
       <p style="margin:5px 0; color:gray; font-size:13px;">
         Ghana Communication Technology University
       </p>
 
-      <p style="color:blue; font-size:13px;">View Certificate →</p>
+  <p style="color:blue; font-size:13px;">View Certificate →</p>
 
-    </div>
+  </div>
   </a>
 
   <!-- Card 2 -->
