@@ -184,7 +184,7 @@ In Excel, I create efficient and well-structured reports using Pivot Tables, VLO
     onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.15)';"
     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
 
-  <h4 style="margin:0;">📜 Excel Fundamentals</h4>
+  <h4 style="margin:0;">📜 CompTIA</h4>
       <p style="margin:5px 0; color:gray; font-size:13px;">
         CompTIA
       </p>
