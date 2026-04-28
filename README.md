@@ -6,7 +6,25 @@
   <a href="#contact">Contact</a>
 </p>
 
-<h1 align="center">EMMANUEL TWUMASI AMPOFO</h1>
+<h1 class="drop">EMMANUEL TWUMASI AMPOFO</h1>
+
+<style>
+.drop {
+  text-align: center;
+  animation: dropDown 1s ease-out;
+}
+
+@keyframes dropDown {
+  from {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+</style>
 
 Data Analyst  ·  UK, Wells.
 
